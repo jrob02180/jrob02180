@@ -3,7 +3,7 @@
 ### <div align="center">Hi, I'm Jen, a full stack web developer who recently graduated from the University of Denver's Coding Bootcamp. I am a certified medical coder and have a background in healthcare. I am passionate about learning new things and am excited to start my career in web/software development. I'm a problem solver, detail-oriented and a team player. I'm looking forward to working with a team to create amazing applications. <br><br>When I'm not coding, I enjoy hiking, playing pickleball, kayaking, and reading.
 <br/>
 
-```
+
 - 🌱 I’m currently learning AWS, Python, and Java
 
 - 👯 I’m looking to collaborate on anything and network!
@@ -11,14 +11,13 @@
 - 😄 Pronouns: she/her
 
 - ⚡ Fun facts about me: I taught English in Japan, went white-water rafting in Alaska and have 10 siblings!
-```
+
 
 </div>
 <br>
 
 
 ## My Skill Set
----
 <br>
 <div align="center">
 
@@ -40,13 +39,12 @@
 
 
 ## Connect with me
----
 <br>  
 <div align="center">
 <a href="https://github.com/jrob02180">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github" />
 </a>
-<a href="jrob02180@gmail.com">
+<a href="mailto:jrob02180@gmail.com">
 <img src=https://img.shields.io/badge/gmail-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white alt="gmail" />
 </a>
 <a href="https://www.linkedin.com/in/jen-roberson-060417276/">
