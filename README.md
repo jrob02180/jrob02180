@@ -1,16 +1,16 @@
 <h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" alt="" width="30">   <b>Hello there!</h1>
 
-### <div align="center">Hi, I'm Jen, a full stack web developer who recently graduated from the University of Denver's Coding Bootcamp. I am a certified medical coder and have a background in healthcare. I am passionate about learning new things and am excited to start my career in web/software development. I'm a problem solver, detail-oriented and a team player. I'm looking forward to working with a team to create amazing applications. <br><br>When I'm not coding, I enjoy hiking, playing pickleball, kayaking, and reading.
+### <div align="center">Hi, I'm Jen, a full stack web developer who recently graduated from the University of Denver's Coding Bootcamp. I am a certified medical coder and have a background in management and medical billing. I am passionate about learning new things and am excited to start my career in web/software development. I'm a problem solver, detail-oriented and a team player. I'm looking forward to working with a team to create amazing applications. <br><br>When I'm not coding, I enjoy hiking, playing pickleball, kayaking, and reading.
 <br/>
 
 
-- 🌱 I’m currently learning AWS, Python, and Java
+- 🌱 I’m currently learning AWS.
 
 - 👯 I’m looking to collaborate on anything and network!
 
 - 😄 Pronouns: she/her
 
-- ⚡ Fun facts about me: I taught English in Japan, went white-water rafting in Alaska and have 10 siblings!
+- ⚡ Fun facts about me: I taught English in Japan and went white-water rafting in Alaska. &#129398;
 
 
 </div>
